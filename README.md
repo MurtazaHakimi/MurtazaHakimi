@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I'm Murtaza. 
+With a background in Economics, I have chosen to delve deeper into Statistics and Data Science to enhance my skills in data and policy analysis, predictive modeling, market research, and research in academia.
 <!--
 **MurtazaHakimi/MurtazaHakimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
